@@ -46,8 +46,8 @@ By strictly limiting responses to uploaded documents, the system reflects enterp
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/nadeem-aiengineer/erp_assistant.git
-cd erp-assistant
+git clone https://github.com/abdulwaheed21/AI-ERP-Assistant.git
+cd AI-ERP-Assistant
 ```
 
 ### 2. Install Dependencies
@@ -93,7 +93,7 @@ docker compose up --build
 
 ## 🙋 Need Help?
 
-If anything breaks, contact `nadeem.engineer.ai@gmail.com` or open an issue on the repo.
+If anything breaks, contact `abdulwaheed.aiengineer@gmail.com` or open an issue on the repo.
 
 ---
 
